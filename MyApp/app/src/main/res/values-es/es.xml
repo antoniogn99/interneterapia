@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiApp</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="registration_title">Crear cuenta</string>
+    <string name="next">Siguiente</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="male">Hombre</string>
+    <string name="gender_db_format_male">Male</string>
+    <string name="female">Mujer</string>
+    <string name="gender_db_format_female">Female</string>
+    <string name="non_binary">No binario</string>
+    <string name="gender_db_format_nonbinary">Non-binary</string>
+    <string name="what_s_your_email">¿Cuál es tu correo electrónico?</string>
+    <string name="pick_a_password">Elige una contraseña</string>
+    <string name="what_s_your_date_of_bith">¿Cuál es tu fecha de nacimiento?</string>
+    <string name="what_s_your_gender">¿Cuál es tu género?</string>
+    <string name="done">Listo</string>
+    <string name="gender">Género</string>
+    <string name="what_s_your_name">¿Cuál es tu nombre?</string>
+    <string name="your_account_is_ready">Tu cuenta está lista</string>
+    <string name="save">Guardar</string>
+    <string name="registration_finished">Registro completado</string>
+    <string name="registration_failed">Registro fallido</string>
+    <string name="processing">Procesando...</string>
+    <string name="wrong_password_or_username">Contraseña o nombre de usuario incorrectos</string>
+    <string name="login_finished">Login terminado</string>
+    <string name="invalid_email_address">Dirección de correo inválida</string>
+    <string name="that_email_address_is_already_in_use">Esa driección de correo ya está en uso</string>
+    <string name="that_email_address_is_not_in_use">Esa driección de correo no está en uso</string>
+    <string name="enter_a_valid_password">Introduce una contraseña válida</string>
+    <string name="enter_your_date_of_birth">Introduce tu fecha de nacimiento</string>
+    <string name="enter_your_gender">Introduce tu género</string>
+    <string name="that_username_is_already_in_use">Ese nombre de usuario ya está en uso</string>
+    <string name="that_username_is_not_in_use">Ese nombre de usuario no está en uso</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_home"></string>
+    <string name="nav_header_title"></string>
+    <string name="nav_header_subtitle"></string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_news">Inicio</string>
+    <string name="menu_tennis">Tenis</string>
+    <string name="menu_football">Fútbol</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="error_loading_data">Error cargando datos</string>
+
+
+
+
+</resources>
